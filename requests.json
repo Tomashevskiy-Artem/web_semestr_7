@@ -1,0 +1,20 @@
+[
+  {
+    "sendeId": "101",
+    "senderUsername": "Tom1",
+    "method": "POST",
+    "action": "Создан пользователь ${username} (id: ${id})"
+  },
+  {
+    "sendeId": "101",
+    "senderUsername": "Tom1",
+    "method": "POST",
+    "action": "Создан пользователь ${username} (id: ${id})"
+  },
+  {
+    "senderId": "101",
+    "senderUsername": "Tom1",
+    "method": "POST",
+    "action": "Создан пользователь Rocky (id: 108)"
+  }
+]
